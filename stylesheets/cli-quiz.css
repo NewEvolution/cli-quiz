@@ -13,7 +13,7 @@ section {
 .content {
 	float: left;
 	width: 65%;
-	padding: 20px;
+	padding: 10px;
 	background-color: darkslategray;
 	color: white;
 }
@@ -21,7 +21,7 @@ section {
 .sidebar {
 	float: right;
 	width: 30%;
-	padding: 20px;
+	padding: 10px;
 	background-color: slategray;
 }
 
