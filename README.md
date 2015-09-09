@@ -1,4 +1,4 @@
-# cli-quiz
+#Quiz: CLI
 
 #  Part I
   =============
